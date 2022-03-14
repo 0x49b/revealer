@@ -1,0 +1,67 @@
+class  G  extends Character{
+
+  public  G (){
+    super();
+    this.addPoint(new Point( 247 , 134 ));
+    this.addPoint(new Point( 319 , 132 ));
+    this.addPoint(new Point( 315 , 116 ));
+    this.addPoint(new Point( 307 , 96 ));
+    this.addPoint(new Point( 294 , 83 ));
+    this.addPoint(new Point( 283 , 73 ));
+    this.addPoint(new Point( 270 , 66 ));
+    this.addPoint(new Point( 261 , 61 ));
+    this.addPoint(new Point( 248 , 59 ));
+    this.addPoint(new Point( 237 , 55 ));
+    this.addPoint(new Point( 224 , 55 ));
+    this.addPoint(new Point( 211 , 56 ));
+    this.addPoint(new Point( 187 , 58 ));
+    this.addPoint(new Point( 168 , 63 ));
+    this.addPoint(new Point( 147 , 73 ));
+    this.addPoint(new Point( 133 , 84 ));
+    this.addPoint(new Point( 123 , 96 ));
+    this.addPoint(new Point( 116 , 112 ));
+    this.addPoint(new Point( 111 , 124 ));
+    this.addPoint(new Point( 106 , 133 ));
+    this.addPoint(new Point( 106 , 145 ));
+    this.addPoint(new Point( 105 , 156 ));
+    this.addPoint(new Point( 103 , 174 ));
+    this.addPoint(new Point( 104 , 189 ));
+    this.addPoint(new Point( 109 , 206 ));
+    this.addPoint(new Point( 114 , 218 ));
+    this.addPoint(new Point( 122 , 234 ));
+    this.addPoint(new Point( 134 , 250 ));
+    this.addPoint(new Point( 147 , 260 ));
+    this.addPoint(new Point( 162 , 268 ));
+    this.addPoint(new Point( 178 , 274 ));
+    this.addPoint(new Point( 195 , 279 ));
+    this.addPoint(new Point( 217 , 280 ));
+    this.addPoint(new Point( 236 , 280 ));
+    this.addPoint(new Point( 260 , 273 ));
+    this.addPoint(new Point( 277 , 265 ));
+    this.addPoint(new Point( 293 , 255 ));
+    this.addPoint(new Point( 305 , 245 ));
+    this.addPoint(new Point( 314 , 233 ));
+    this.addPoint(new Point( 322 , 221 ));
+    this.addPoint(new Point( 321 , 151 ));
+    this.addPoint(new Point( 208 , 151 ));
+    this.addPoint(new Point( 208 , 200 ));
+    this.addPoint(new Point( 261 , 200 ));
+    this.addPoint(new Point( 253 , 209 ));
+    this.addPoint(new Point( 239 , 216 ));
+    this.addPoint(new Point( 223 , 218 ));
+    this.addPoint(new Point( 209 , 217 ));
+    this.addPoint(new Point( 192 , 208 ));
+    this.addPoint(new Point( 182 , 197 ));
+    this.addPoint(new Point( 177 , 182 ));
+    this.addPoint(new Point( 175 , 168 ));
+    this.addPoint(new Point( 177 , 153 ));
+    this.addPoint(new Point( 180 , 143 ));
+    this.addPoint(new Point( 186 , 133 ));
+    this.addPoint(new Point( 193 , 127 ));
+    this.addPoint(new Point( 204 , 121 ));
+    this.addPoint(new Point( 216 , 120 ));
+    this.addPoint(new Point( 227 , 121 ));
+    this.addPoint(new Point( 235 , 125 ));
+    this.addPoint(new Point( 247 , 133 ));
+  }
+}
